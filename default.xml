@@ -15,6 +15,7 @@
   <project path="build" name="android_build" remote="github" revision="jellybean">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+  <project path="bootable/recovery" name="platform/bootable/recovery" remote="github" revision="jellybean" />
   <project path="bionic" name="android_bionic" remote="github" revision="jellybean"/>
   <project path="dalvik" name="android_dalvik" remote="github" revision="jellybean"/>
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="github" revision="jellybean"/>
