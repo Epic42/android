@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   <remote  name="github"
-           fetch="git://github.com/DIRT-ROM/"
+           fetch="git://github.com/TeamDirt/"
            review="review.androidfiles.org"/>
   <default revision="refs/tags/android-4.2.1_r1"
            remote="aosp"
