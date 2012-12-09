@@ -11,7 +11,7 @@
            remote="aosp"
            sync-j="4" />
 
-
+<!--Main-->
   <project path="build" name="android_build" remote="github" revision="jellybean">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
