@@ -48,7 +48,6 @@
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="github" revision="jellybean" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="github" revision="jellybean" />
-  <project path="hardware/qcom/display-legacy" name="android_hardware_qcom_display-legacy" remote="github" revision="jellybean" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" remote="github" revision="jellybean"/>
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="github" revision="jellybean"/>
@@ -83,12 +82,11 @@
   <project path="android" name="android" remote="github" revision="jellybean" />
   <project path="external/bash" name="android_external_bash" remote="github" revision="jellybean" />
   <project path="external/busybox" name="android_external_busybox" remote="github" revision="jellybean" />
-  <project path="external/compat-wireless-3.5-rc3-1-sn" name="android_external_compat-wireless-3.5-rc3-1-sn" remote="github" revision="jellybean" />
   <project path="external/htop" name="android_external_htop" remote="github" revision="jellybean" />
   <project path="external/libncurses" name="android_external_libncurses" remote="github" revision="jellybean" />
   <project path="external/nano" name="android_external_nano" remote="github" revision="jellybean" />
   <project path="external/rsync" name="android_external_rsync" remote="github" revision="jellybean" />
-  <project path="external/su" name="android_external_su" remote="github" revision="jellybean" />
+  <project path="system/su" name="android_system_su" remote="github" revision="jellybean" />
   <project path="external/vim" name="android_external_vim" remote="github" revision="jellybean" />
   <project path="external/wpa_supplicant" name="android_external_wpa_supplicant" remote="github" revision="jellybean"/>
   <project path="hardware/atheros" name="android_hardware_atheros" remote="github" revision="jellybean" />
