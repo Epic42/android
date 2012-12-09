@@ -89,7 +89,6 @@
   <project path="system/su" name="android_system_su" remote="github" revision="jellybean" />
   <project path="external/vim" name="android_external_vim" remote="github" revision="jellybean" />
   <project path="hardware/atheros" name="android_hardware_atheros" remote="github" revision="jellybean" />
-  <project path="system/wlan/ti" name="android_system_wlan_ti" remote="github" revision="jellybean"/>
 
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
