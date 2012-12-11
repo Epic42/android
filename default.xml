@@ -24,6 +24,7 @@
   <project path="device/samsung/manta" name="android_device_samsung_manta" remote="github" revision="jellybean"/>
   <project path="device/samsung/toro" name="android_device_samsung_toro" remote="github" revision="jellybean"/>
   <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="github" revision="jellybean"/>
+  <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="github" revision="jellybean" />
   <project path="external/aac" name="android_external_aac" remote="github" revision="jellybean"/>
   <project path="external/chromium" name="android_external_chromium" remote="github" revision="jellybean"/>
   <project path="external/elfutils" name="android_external_elfutils" remote="github" revision="jellybean"/>
