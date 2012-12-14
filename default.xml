@@ -92,6 +92,7 @@
   <project path="external/vim" name="android_external_vim" remote="github" revision="jellybean" />
   <project path="hardware/atheros" name="android_hardware_atheros" remote="github" revision="jellybean" />
   <project path="vendor/td" name="android_vendor_td" remote="github" revision="jellybean" />
+  <project path="vendor/samsung/toro" name="android_samsung_toro" remote="github" revision="jellybean" />
 
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
