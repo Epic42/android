@@ -20,6 +20,7 @@
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="github" revision="jellybean"/>
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="github" revision="jellybean"/>
   <project path="device/htc/evita" name="android_device_htc_evita" remote="github" revision="jellybean" />
+  <project path="device/htc/enrc2b" name="android_device_htc_enrc2b" remote="github" revision="jellybean" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="github" revision="jellybean" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="github" revision="jellybean"/>
   <project path="device/lge/mako-kernel" name="android_device_lge_mako-kernel" remote="github" revision="jellybean"/>
@@ -185,6 +186,7 @@
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/liblzf" name="platform/external/liblzf" />
   <project path="external/libmtp" name="platform/external/libmtp" />
+  <project path="external/libnfc-nci" name="platform/external/libnfc-nci" revision="refs/tags/android-4.2.1_r1_" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libogg" name="platform/external/libogg" />
@@ -298,6 +300,7 @@
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
+  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" revision="refs/tags/android-4.2.1_r1___" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
