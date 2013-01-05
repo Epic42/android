@@ -21,6 +21,7 @@
   <project path="device/generic/goldfish" name="android_device_generic_goldfish" remote="github" revision="jellybean"/>
   <project path="device/htc/evita" name="android_device_htc_evita" remote="github" revision="jellybean" />
   <project path="device/htc/enrc2b" name="android_device_htc_enrc2b" remote="github" revision="jellybean" />
+  <project path="device/htc/jewel" name="android_device_htc_jewel" remote="github" revision="jellybean" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="github" revision="jellybean" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="github" revision="jellybean"/>
   <project path="device/lge/mako-kernel" name="android_device_lge_mako-kernel" remote="github" revision="jellybean"/>
@@ -100,6 +101,7 @@
   <project path="vendor" name="android_vendor_samsung_toro" remote="github" revision="jellybean" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="github" revision="jellybean" />
   <project path="vendor/htc/evita" name="android_vendor_htc_evita" remote="github" revision="jellybean" />
+  <project paht="vendor/htc/jewel" name="android_vendor_htc_jewel" remote="github" revision="jellybean" />
 
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
