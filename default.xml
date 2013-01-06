@@ -101,7 +101,7 @@
   <project path="vendor" name="android_vendor_samsung_toro" remote="github" revision="jellybean" />
   <project path="external/bluetooth/bluedroid" name="android_external_bluetooth_bluedroid" remote="github" revision="jellybean" />
   <project path="vendor/htc/evita" name="android_vendor_htc_evita" remote="github" revision="jellybean" />
-  <project paht="vendor/htc/jewel" name="android_vendor_htc_jewel" remote="github" revision="jellybean" />
+  <project path="vendor/htc/jewel" name="android_vendor_htc_jewel" remote="github" revision="jellybean" />
 
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
